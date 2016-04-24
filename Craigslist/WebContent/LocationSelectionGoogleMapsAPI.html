@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Locations</title>
+<style>
+html,body
+{
+	height:100%;
+	margin:0;
+	padding:0;
+}
+#map{
+	height:100%;	
+}
+</style>
+</head>
+
+<body>
+<div id="map"></div>
+<script type="text/javascript" src="Locations.json"></script>
+<script>
+      var map;
+      function initMap() 
+	  {
+		  map = new google.maps.Map
+		  (
+		  	document.getElementById('map'), 
+		  	{
+          		center: {lat: 27.48, lng:-14.52},
+          		zoom: 3
+		  	});
+			
+			var geocoder = new google.maps.Geocoder();
+			
+			//goecodeAddress(geocoder, map);
+			
+			plantMarkers(map);
+		
+			/*var craigsListIco = 'https:craigslist.org/favicon.ico';
+			var craigsListMarker = new google.maps.Marker
+			({
+				position : {lat: 19.0760, lng: 72.8777},
+				map : map,
+				icon: craigsListIco,
+				animation: google.maps.Animation.DROP,
+				title : 'Mumbai'
+			});*/
+	  
+      }
+	  
+	  function plantMarkers(map)
+	  {
+		  var craigsListIco = 'https://craigslist.org/favicon.ico';
+		  
+		  for(i=0 ; i<locations.length; i++)
+		  {
+			  var craigsListMarker = new google.maps.Marker
+					 ({
+						 position : {lat: locations[i].lat, lng: locations[i].lng},
+						 map : map,
+						 icon: craigsListIco,
+						 animation: google.maps.Animation.DROP,
+						 title : locations[i].city
+					  });
+				craigsListMarker.addListener('click', function(){ window.location = 'http://www.google.com';});
+		  }
+	  }
+	  
+	  function goecodeAddress(geocoder, map)
+	  {
+		  var AsiaPacific = new Array(
+		  "Mumbai",
+		  "Bangalore",
+		  "Chandigarh",
+		  "Pune",
+		  "Shanghai",
+		  "Beijing",
+		  "Sydney",
+		  "Adelaide",
+		  "Seoul",
+		  "Thailand",
+		  "Kuala Lumpur",
+		  "Singapore",
+		  "Tokyo"	  
+		  );
+		  
+		  var craigsListIco = 'https://craigslist.org/favicon.ico';
+		  
+		  console.log(AsiaPacific.length);
+		  for(i = 0; i<AsiaPacific.length; i++)
+		  {
+			 geocoder.geocode({'address': AsiaPacific[i]}, function(results, status)
+			 {
+				 if(status === google.maps.GeocoderStatus.OK)
+				 {
+					 console.log(results[0].formatted_address);
+					 var craigsListMarker = new google.maps.Marker
+					 ({
+						 position : results[0].geometry.location,
+						 map : map,
+						 icon: craigsListIco,
+						 animation: google.maps.Animation.DROP,
+						 title : results[0].formatted_address
+					  }); 
+				 }
+				 else
+				 {
+					console.log('status:'+status); 
+				 }
+			 }
+			 );
+		  }
+	  }
+	  
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAlgBWuxZW3nfeJAS8FWgFAF6jnom8EtGA&callback=initMap"
+    async defer>
+    </script>
+</body>
+</html>

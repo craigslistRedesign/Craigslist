@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <translation id="community">
+        <english>Community</english>
+        <french>Communauté</french>
+        <spanish>Comunidad</spanish>        
+        <hindi>समुदाय</hindi>
+        <japanese>コミュニティ</japanese>
+    </translation>
+    <translation id="personals">
+        <english>Personals</english>
+        <french>Rencontres</french>
+        <spanish>Mensajes personales</spanish> 
+        <hindi>व्यक्तिगत</hindi>
+        <japanese>尋ね人欄</japanese>
+    </translation>
+    <translation id="discussion_forums">
+        <english>Discussion Forums</english>
+        <french>Discussion Forums</french>
+        <spanish>Foros de discusión</spanish>       
+        <hindi>चर्चा मंच</hindi>
+        <japanese>ディスカッションフォーラム</japanese>
+    </translation>
+    <translation id="housing">
+        <english>Housing</english>
+        <french>Logement</french>
+        <spanish>Alojamiento</spanish> 
+        <hindi>हाउसिंग</hindi>
+        <japanese>ハウジング</japanese>
+    </translation>
+     <translation id="for_sale">
+        <english>For Sale</english>
+        <french>à vendre</french>
+        <spanish>en venta</spanish>
+        <hindi>बेचने के लिए</hindi>
+         <japanese>販売のための</japanese>
+    </translation>
+    <translation id="services">
+        <english>Services</english>
+        <french>Prestations de service</french>
+        <spanish>Servicios</spanish>
+        <hindi>सेवा</hindi>
+        <japanese>サービス</japanese>
+    </translation>
+    <translation id="jobs">
+        <english>Jobs</english>
+        <french>Emplois</french>
+        <spanish>Trabajos</spanish>
+        <hindi>नौकरियां</hindi>
+        <japanese>ジョブズ</japanese>
+    </translation>
+    <translation id="gigs">
+        <english>Gigs</english>
+        <french>Concerts</french>
+        <spanish>Conciertos</spanish>        
+        <hindi>सजीव प्रदर्शन</hindi>
+        <japanese>ギグ</japanese>
+    </translation>
+    <translation id="resumes">
+        <english>Resumes</english>
+        <french>CV</french>
+        <spanish>Hojas de vida</spanish>
+        <hindi>से शुरू</hindi>
+        <japanese>履歴書</japanese>
+    </translation>
+     <translation id="about">
+        <english>About</english>
+        <french>Sur</french>
+        <spanish>Acerca de</spanish>
+        <hindi>के बारे में</hindi>
+        <japanese>約</japanese>
+    </translation>
+    <translation id="activities">
+        <english>Activities</english>
+        <french>Activités</french>
+        <spanish>Ocupaciones</spanish>
+        <hindi>गतिविधियों</hindi>
+        <japanese>活動</japanese>
+    </translation>
+    <translation id="artists">
+        <english>Artists</english>
+        <french>Artistes</french>
+        <spanish>Artistas</spanish>        
+        <hindi>कलाकार</hindi>
+        <japanese>アーティスト</japanese>
+    </translation>
+    <translation id="childcare">
+        <english>Childcare</english>
+        <french>Garde d'enfants</french>
+        <spanish>Cuidado de los niños</spanish> 
+        <hindi>बच्चे की देखभाल</hindi>
+        <japanese>育児</japanese>
+    </translation>
+    <translation id="classes">
+        <english>Classes</english>
+        <french>Des cours</french>
+        <spanish>Clases</spanish>
+        <hindi>शैक्षणिक</hindi>
+        <japanese>クラス</japanese>
+    </translation>    
+    <translation id="general">
+        <english>General</english>
+        <french>Général</french>
+        <spanish>General</spanish>
+        <hindi>सामान्य</hindi>
+        <japanese>一般的な</japanese>
+    </translation>
+    <translation id="groups">
+        <english>Groups</english>
+        <french>Groupes</french>
+        <spanish>Grupos</spanish>
+        <hindi>समूह</hindi>
+        <japanese>グループ</japanese>
+    </translation>
+    <translation id="local_news">
+        <english>Local News</english>
+        <french>Nouvelles locales</french>
+        <spanish>Noticias locales</spanish>
+        <hindi>स्थानीय समाचार</hindi>
+        <japanese>ローカルニュース</japanese>
+    </translation>
+    <translation id="lost_found">
+        <english>Lost+Found</english>
+        <french>Perdu et trouvé</french>
+        <spanish>Objetos perdidos</spanish>
+        <hindi>खोया और पाया</hindi>
+        <japanese>忘れ物</japanese>
+    </translation>
+    <translation id="musicians">
+        <english>Musicians</english>
+        <french>Les musiciens</french>
+        <spanish>Músicos</spanish>
+        <hindi>संगीतकार</hindi>
+        <japanese>ミュージシャン</japanese>
+    </translation>
+    <translation id="pets">
+        <english>Pets</english>
+        <french>Animaux domestiques</french>
+        <spanish>Mascotas</spanish>
+        <hindi>पालतू जानवर</hindi>
+        <japanese>ペット</japanese>
+    </translation>
+    <translation id="politics">
+        <english>Politics</english>
+        <french>Politique</french>
+        <spanish>Política</spanish>
+        <hindi>राजनीति</hindi>
+        <japanese>政治</japanese>
+    </translation>
+    <translation id="rideshare">
+        <english>Rideshare</english>
+        <french>Share Ride</french>
+        <spanish>Cuota de paseo</spanish>
+        <hindi>सवारी शेयर</hindi>
+        <japanese>ライドシェア</japanese>
+    </translation>
+    <translation id="volunteers">
+        <english>Volunteers</english>
+        <french>Volontaires</french>
+        <spanish>Los voluntarios</spanish>
+        <hindi>स्वयंसेवकों</hindi>
+        <japanese>ボランティア</japanese>
+    </translation>
+    <translation id="platonic">
+        <english>Platonic</english>
+        <french>Platonique</french>
+        <spanish>Platónico</spanish>
+        <hindi>आध्यात्मिक</hindi>
+        <japanese>プラトニック</japanese>
+    </translation>
+    <translation id="women2">
+        <english>Women seek women</english>
+        <french>Les femmes cherchent des femmes</french>
+        <spanish>Las mujeres buscan las mujeres</spanish>
+        <hindi>महिलाओं को महिलाओं की तलाश</hindi>
+        <japanese>女性が女性を求めて</japanese>
+    </translation>
+    <translation id="women_men">
+        <english>Women seeking men</english>
+        <french>Les femmes cherchent des hommes</french>
+        <spanish>Mujeres buscando hombres</spanish>
+        <hindi>पुरुष ढूंढती महिलाएं</hindi>
+        <japanese>男性を探している女性</japanese>
+    </translation>
+    <translation id="men_women">
+        <english>Men seeking women</english>
+        <french>Des hommes qui cherchent des femmes</french>
+        <spanish>Hombres buscando mujeres</spanish>
+        <hindi>महिलाएं जो पुरष खोज रही हैं</hindi>
+        <japanese>女性を探している男性</japanese>
+    </translation>
+    <translation id="men_men">
+        <english>Men seeking men</english>
+        <french>Homme cherche homme</french>
+        <spanish>chico busca chico</spanish>
+        <hindi>पुरुषों पुरुषों की मांग</hindi>
+        <japanese>男性を探している男性</japanese>
+    </translation>
+    <translation id="misc_romance">
+        <english>Misc romance</english>
+        <french>Rencontres diverses</french>
+        <spanish>diverso el romance</spanish>
+        <hindi>विविध रोमांस</hindi>
+        <japanese>雑多なロマンス</japanese>
+    </translation>
+    <translation id="casual">
+        <english>Casual</english>
+        <french>Décontractée</french>
+        <spanish>Casual</spanish>
+        <hindi>नैमित्तिक</hindi>
+        <japanese>カジュアル</japanese>
+    </translation>
+    <translation id="missed_conn">
+        <english>Missed Connections</english>
+        <french>Missed Connections</french>
+        <spanish>Conexiones perdidas</spanish>
+        <hindi>छुटे हुए कनेक्शन</hindi>
+        <japanese>逃してしまった関係</japanese>
+    </translation>
+    <translation id="rants_raves">
+        <english>Rants and Raves</english>
+        <french>Rants et Raves</french>
+        <spanish>Rienda suelta</spanish>
+        <hindi>गुस्से से चिल्लाना</hindi>
+        <japanese>どなり散らします</japanese>
+    </translation>
+    <translation id="apple">
+        <english>Apple</english>
+        <french>Pomme</french>
+        <spanish>Manzana</spanish>
+        <hindi>सेब</hindi>
+        <japanese>林檎</japanese>
+    </translation>
+    <translation id="arts">
+        <english>Arts</english>
+        <french>Lettres</french>
+        <spanish>Letras</spanish>
+        <hindi>कला</hindi>
+        <japanese>芸術</japanese>
+    </translation>
+    <translation id="atheist">
+        <english>Atheist</english>
+        <french>Athée</french>
+        <spanish>Ateo</spanish>
+        <hindi>नास्तिक</hindi>
+        <japanese>無神論者</japanese>
+    </translation>
+    <translation id="autos">
+        <english>Autos</english>
+        <french>awts</french>
+        <spanish>awts</spanish>
+        <hindi>कारों के</hindi>
+        <japanese>オート</japanese>
+    </translation>
+    <translation id="beauty">
+        <english>Beauty</english>
+        <french>beauté</french>
+        <spanish>belleza</spanish>
+        <hindi>सुंदरता</hindi>
+        <japanese>美しさ</japanese>
+    </translation>
+    <translation id="bikes">
+        <english>Bikes</english>
+        <french>vélos</french>
+        <spanish>bicicletas</spanish>
+        <hindi>बाइक</hindi>
+        <japanese>バイク</japanese>
+    </translation>
+    <translation id="celebs">
+        <english>Celebs</english>
+        <french>Célébrités</french>
+        <spanish>Famosos</spanish>
+        <hindi>हस्तियाँ</hindi>
+        <japanese>セレブリティ</japanese>
+    </translation>
+    <translation id="computer">
+        <english>Computer</english>
+        <french>Ordinateur</french>
+        <spanish>Computadora</spanish>
+        <hindi>कंप्यूटर</hindi>
+        <japanese>コンピューター</japanese>
+    </translation>
+    <translation id="crafts">
+        <english>Crafts</english>
+        <french>Artisanat</french>
+        <spanish>Artesanía</spanish>
+        <hindi>शिल्प</hindi>
+        <japanese>クラフツ</japanese>
+    </translation>
+    
+    <translation id="diet">
+        <english>Diet</english>
+        <french>Régime</french>
+        <spanish>Dieta</spanish>
+        <hindi>आहार</hindi>
+        <japanese>ダイエット</japanese>
+    </translation>
+    <translation id="divorce">
+        <english>Divorce</english>
+        <french>Divorce</french>
+        <spanish>Divorcio</spanish>
+        <hindi>तलाक</hindi>
+        <japanese>離婚</japanese>
+    </translation>
+    <translation id="dying">
+        <english>Dying</english>
+        <french>Décès</french>
+        <spanish>Muerte</spanish>
+        <hindi>मौत</hindi>
+        <japanese>死</japanese>
+    </translation>
+    <translation id="apt_housing">
+        <english>Apts/Housing</english>
+        <french>logement</french>
+        <spanish>alojamiento</spanish>
+        <hindi>आवास</hindi>
+        <japanese>ハウジング</japanese>
+    </translation>
+    <translation id="housing_swap">
+        <english>Housing Swap</english>
+        <french>échange de maisons</french>
+        <spanish>casa de intercambio</spanish>
+        <hindi>घर की अदलाबदली</hindi>
+        <japanese>家のスワッピング</japanese>
+    </translation>
+    <translation id="housing_wanted">
+        <english>Housing wanted</english>
+        <french>logement voulait</french>
+        <spanish>Busco vivienda</spanish>
+        <hindi>चाहते हैं घर</hindi>
+        <japanese>ハウジングは欲しかったです</japanese>
+    </translation>
+    <translation id="office_comm">
+        <english>Office/Commercial</english>
+        <french>Bureau / Commercial</french>
+        <spanish>Oficina / Comercial</spanish>
+        <hindi>कार्यालय / वाणिज्यिक</hindi>
+        <japanese>オフィス/商業</japanese>
+    </translation>
+    <translation id="parking_storage">
+        <english>Parking/Storage</english>
+        <french>Parking / Stockage</french>
+        <spanish>Parking / Garaje</spanish>
+        <hindi>पार्किंग / संग्रहण</hindi>
+        <japanese>駐車場/ストレージ</japanese>
+    </translation>
+    <translation id="real_estate">
+        <english>Real Estate for Sale</english>
+        <french>Immobilier à vendre</french>
+        <spanish>Propiedades inmobiliarias en venta</spanish>
+        <hindi>बिक्री के लिए रियल एस्टेट</hindi>
+        <japanese>販売用不動産</japanese>
+    </translation>
+    <translation id="rooms_shared">
+        <english>Rooms/Shared</english>
+        <french></french>
+        <spanish></spanish>
+        <hindi></hindi>
+        <japanese></japanese>
+    </translation>
+    <translation id="rooms_wanted">
+        <english>Rooms wanted</english>
+        <french>Chambres partagées</french>
+        <spanish>Las habitaciones compartidas</spanish>
+        <hindi>कमरे साझा</hindi>
+        <japanese>客室には、共有します</japanese>
+    </translation>
+    <translation id="sublets_temp">
+        <english>Sublets/Temporary</english>
+        <french>sous-lets/temporaire</french>
+        <spanish>sub-lets/temporal</spanish>
+        <hindi>उप देता / अस्थाई</hindi>
+        <japanese>/は、一時的なサブます</japanese>
+    </translation>
+    <translation id="vacation_rentals">
+        <english>Vacation rentals</english>
+        <french>locations de vacances</french>
+        <spanish>alquileres de vacaciones</spanish>
+        <hindi>छुट्टी के किराए</hindi>
+        <japanese>バケーションレンタル</japanese>
+    </translation>
+    <translation id="arts_crafts">
+        <english>Arts+Crafts</english>
+        <french>L'artisanat</french>
+        <spanish>Artes y manualidades</spanish>
+        <hindi>कला और शिल्प</hindi>
+        <japanese>美術工芸</japanese>
+    </translation>
+    <translation id="antiques">
+        <english>Antiques</english>
+        <french>Antiquités</french>
+        <spanish>Antigüedades</spanish>
+        <hindi>प्राचीन वस्तुएँ</hindi>
+        <japanese>アンティーク</japanese>
+    </translation>
+    <translation id="appliances">
+        <english>Appliances</english>
+        <french>Électroménager</french>
+        <spanish>Accesorios</spanish>
+        <hindi>उपकरण</hindi>
+        <japanese>家電</japanese>
+    </translation>
+    <translation id="auto_parts">
+        <english>Auto Parts</english>
+        <french>des pièces d'automobile</french>
+        <spanish>Partes de automóvil</spanish>
+        <hindi>ऑटोमोबाइल पार्ट्स</hindi>
+        <japanese>自動車部品</japanese>
+    </translation>
+    <translation id="baby_kid">
+        <english>Baby+kid</english>
+        <french>bébé / enfant</french>
+        <spanish>bebé / niño</spanish>
+        <hindi>बच्चे</hindi>
+        <japanese>赤ちゃん/子供</japanese>
+    </translation>
+    <translation id="barter">
+        <english>Barter</english>
+        <french>troc</french>
+        <spanish>permuta</spanish>
+        <hindi>वस्तु-विनिमय</hindi>
+        <japanese>バーター</japanese>
+    </translation>
+    <translation id="beauty_hlth">
+        <english>Beauty+hlth</english>
+        <french>la beauté et la santé</french>
+        <spanish>la belleza y la salud</spanish>
+        <hindi>सौंदर्य और स्वास्थ्य</hindi>
+        <japanese>美と健康</japanese>
+    </translation>
+    <translation id="boats">
+        <english>Boats</english>
+        <french>Bateaux</french>
+        <spanish>Barcos</spanish>
+        <hindi>नाव</hindi>
+        <japanese>ボート</japanese>
+    </translation>
+    <translation id="books">
+        <english>Books</english>
+        <french>livres</french>
+        <spanish>libros</spanish>
+        <hindi>पुस्तकें</hindi>
+        <japanese>図書</japanese>
+    </translation>
+    <translation id="atv_utv_sno">
+        <english>Atv/Utv/Sno</english>
+        <french>véhicules tout terrain et motoneiges</french>
+        <spanish>vehículos todo terreno y motos de nieve</spanish>
+        <hindi>सभी इलाके वाहन और स्नोमोबाइल</hindi>
+        <japanese>全地形対応車やスノーモービル</japanese>
+    </translation>
+    
+     <translation id="automotive">
+        <english>Automotive</english>
+        <french>Automobile</french>
+        <spanish>Automotor</spanish>
+        <hindi>मोटर वाहन</hindi>
+        <japanese>自動車の</japanese>
+    </translation>
+     <translation id="cycle">
+        <english>Cycle</english>
+        <french>Cycle</french>
+        <spanish>Ciclo</spanish>
+        <hindi>चक्र</hindi>
+        <japanese>サイクル</japanese>
+    </translation>
+     <translation id="farm_garden">
+        <english>Farm+Garden</english>
+        <french>Ferme et jardin</french>
+        <spanish>Granja y jardín</spanish>
+        <hindi>फार्म और उद्यान</hindi>
+        <japanese>ファームと庭園</japanese>
+    </translation>
+     <translation id="financial">
+        <english>Financial</english>
+        <french>Financier</french>
+        <spanish>Financiero</spanish>
+        <hindi>वित्तीय</hindi>
+        <japanese>ファイナンシャル</japanese>
+    </translation>
+     <translation id="household">
+        <english>Household</english>
+        <french>Ménage</french>
+        <spanish>Casa</spanish>
+        <hindi>गृहस्थी</hindi>
+        <japanese>家庭</japanese>
+    </translation>
+     <translation id="labor_move">
+        <english>Labor/Move</english>
+        <french>Travail / Déménagement</french>
+        <spanish>Trabajo / traslado</spanish>
+        <hindi>श्रम / स्थानांतरण</hindi>
+        <japanese>労働/引越し</japanese>
+    </translation>
+     <translation id="accn_finance">
+        <english>Accounting+Finance</english>
+        <french>Comptabilité et Finance</french>
+        <spanish>Cuentas y finanzas</spanish>
+        <hindi>लेखा और वित्त</hindi>
+        <japanese>経理/財務</japanese>
+    </translation>
+     <translation id="admin_office">
+        <english>Admin/office</english>
+        <french>Bureau administratif</french>
+        <spanish>Oficina administrativa</spanish>
+        <hindi>प्रशासनिक कार्यालय</hindi>
+        <japanese>管理/オフィス</japanese>
+    </translation>
+     <translation id="arch_engg">
+        <english>Arch/Engineering</english>
+        <french>Ingénieur architecte</french>
+        <spanish>Ingenieria arquitectonica</spanish>
+        <hindi>वास्तुकला इंजीनियरिंग</hindi>
+        <japanese>建築/エンジニアリング</japanese>
+    </translation>
+     <translation id="art_media_design">
+        <english>Art/Media/Design</english>
+        <french>Art / Média / Design</french>
+        <spanish>Arte / Medios / Diseño</spanish>
+        <hindi>कला / मीडिया / डिजाइन</hindi>
+        <japanese>アート/メディア/デザイン</japanese>
+    </translation>
+     <translation id="bio_sci">
+        <english>Biotech/Science</english>
+        <french>Biotech / Sciences</french>
+        <spanish>Biotech / Ciencia</spanish>
+        <hindi>बायोटेक / विज्ञान</hindi>
+        <japanese>バイオテクノロジー/科学</japanese>
+    </translation>
+     <translation id="bus_mgmt">
+        <english>Business/Mgmt</english>
+        <french>Gestion d'entreprise</french>
+        <spanish>Administración de Empresas</spanish>
+        <hindi>व्यवसाय प्रबंधन</hindi>
+        <japanese>ビジネス管理</japanese>
+    </translation>
+     <translation id="cust_service">
+        <english>Customer Service</english>
+        <french>Service Clients</french>
+        <spanish>Servicio al cliente</spanish>
+        <hindi>ग्राहक सेवा</hindi>
+        <japanese>顧客サービス</japanese>
+    </translation>
+     <translation id="education">
+        <english>Education</english>
+        <french>Éducation</french>
+        <spanish>Educación</spanish>
+        <hindi>शिक्षा</hindi>
+        <japanese>教育</japanese>
+    </translation>
+     <translation id="food_bev_hosp">
+        <english>Food/Bev/Hosp</english>
+        <french>Aliments, des boissons et de l'hospitalité</french>
+        <spanish>Alimentación, bebidas y hospitalidad</spanish>
+        <hindi>खाद्य, पेय और आतिथ्य</hindi>
+        <japanese>食品、飲料、ホスピタリティ</japanese>
+    </translation>
+     <translation id="general_labor">
+        <english>General Labor</english>
+        <french>Travail général</french>
+        <spanish>tarea general</spanish>
+        <hindi>सामान्य श्रम</hindi>
+        <japanese>一般労働</japanese>
+    </translation>
+     <translation id="creative">
+        <english>Creative</english>
+        <french>Créatif</french>
+        <spanish>Creativo</spanish>
+        <hindi>रचनात्मक</hindi>
+        <japanese>クリエイティブ</japanese>
+    </translation>
+     <translation id="crew">
+        <english>Crew</english>
+        <french>Équipage</french>
+        <spanish>Tripulación</spanish>
+        <hindi>कर्मी दल</hindi>
+        <japanese>クルー</japanese>
+    </translation>
+     <translation id="domestic">
+        <english>Domestic</english>
+        <french>National</french>
+        <spanish>Nacional</spanish>
+        <hindi>घरेलू</hindi>
+        <japanese>国内の</japanese>
+    </translation>
+     <translation id="events">
+        <english>Events</english>
+        <french>événements</french>
+        <spanish>eventos</spanish>
+        <hindi>आयोजन</hindi>
+        <japanese>イベント</japanese>
+    </translation>
+     <translation id="labor">
+        <english>Labor</english>
+        <french>La main d'oeuvre</french>
+        <spanish>Trabajo</spanish>
+        <hindi>श्रम</hindi>
+        <japanese>労働</japanese>
+    </translation>
+     <translation id="talent">
+        <english>Talent</english>
+        <french>Talent</french>
+        <spanish>Talento</spanish>
+        <hindi>प्रतिभा</hindi>
+        <japanese>才能</japanese>
+    </translation>
+     <translation id="writing">
+        <english>Writing</english>
+        <french>écriture</french>
+        <spanish>escritura</spanish>
+        <hindi>लेखन</hindi>
+        <japanese>書き込み</japanese>
+    </translation>    
+    <translation id="terms">
+        <english>Terms</english>
+        <french>Termes</french>
+        <spanish>Condiciones</spanish>
+        <hindi>शर्तों</hindi>
+        <japanese>条項</japanese>
+    </translation>
+    <translation id="cl_jobs">
+        <english>Cl Jobs</english>
+        <french>Carrières</french>
+        <spanish>carreras</spanish>
+        <hindi>करियर</hindi>
+        <japanese>キャリア</japanese>
+    </translation>
+    <translation id="feedback">
+        <english>Feedback</english>
+        <french>Retour d'information</french>
+        <spanish>Realimentación</spanish>
+        <hindi>प्रतिक्रिया</hindi>
+        <japanese>反応</japanese>
+    </translation>
+    <translation id="privacy">
+        <english>Privacy</english>
+        <french>Intimité</french>
+        <spanish>Intimidad</spanish>
+        <hindi>एकांत</hindi>
+        <japanese>プライバシー</japanese>
+    </translation>
+    <translation id="safety">
+        <english>Safety</english>
+        <french>Sécurité</french>
+        <spanish>La seguridad</spanish>
+        <hindi>सुरक्षा</hindi>
+        <japanese>安全性</japanese>
+    </translation>
+    <translation id="help">
+        <english>help</english>
+        <french>Aidez-moi</french>
+        <spanish>Ayuda</spanish>
+        <hindi>मदद</hindi>
+        <japanese>助けて</japanese>
+    </translation>
+</translations>
